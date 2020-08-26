@@ -15,7 +15,7 @@ Disclaimer: I cleaned up the code a bit before release. A few test runs indicate
 
 
 This is the code accompanying my internship at the Centre des Matériaux, of MINES ParisTech. 
-In this intership, I study the construction of dictionaries of local reduced models by clustering
+In this intership, I studied the construction of dictionaries of local reduced models by clustering
 methods. By considering a set of pre-computed simulations’ solutions as points on a Grassmann manifold,
 the non-linear space of solutions can be approximated by a set of affine subspaces, which are identified
 by clustering on these points. The utility of the clustering is highly dependent on its hyper-parameters, especially
